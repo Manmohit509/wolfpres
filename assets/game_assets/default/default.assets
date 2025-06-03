@@ -1,0 +1,51 @@
+texture block_1 textures/block.png
+texture block_2 textures/jojos_bald_head_funny.png
+texture block_3 textures/cheuveux.png
+texture block_3 textures/where_is_hoppy.png
+texture block_4 textures/hoppy.png
+texture interact textures/gui/interact.png
+texture health_bar_empty textures/gui/health_bar_empty.png
+texture health_bar_full textures/gui/health_bar_full.png
+texture intranet textures/computer/intranet.png
+texture intra_jojo textures/computer/intra_jojo.png
+texture login_input textures/computer/jofrey_login_input.png
+texture login textures/computer/jofrey_login.png
+texture taskbar textures/computer/taskbar.png
+texture windows textures/computer/windows_xp.jpg
+texture taskbar textures/computer/taskbar.png
+
+entity inspect_melee_weapon textures/animation/inspect_melee_weapon.png 666 374 19 4
+entity attack_melee_weapon textures/animation/attack_melee_weapon.png 666 374 10 1
+entity inspect_range_weapon textures/animation/inspect_range_weapon.png 666 374 14 1
+entity attack_range_weapon textures/animation/attack_range_weapon.png 666 374 8 1
+
+entity jojo entities/jojo.png 512 512 12 4
+entity projectile entities/projectile.png 256 256 1 8
+entity hoppy entities/hoppy.png 512 512 11 1
+entity computer entities/computer.png 256 512 12 1
+entity heal entities/heal.png 128 512 1 1
+
+font font fonts/font.ttf
+
+music menu_music musics/menu.ogg
+music bg_music musics/bg.ogg
+
+sound cat_sound sounds/cat.ogg
+sound book_sound sounds/book.ogg
+sound whoosh_sound sounds/whoosh.ogg
+sound boing_sound sounds/boing.ogg
+sound paper_sound sounds/paper.ogg
+sound deo_sound sounds/deo_sound.ogg
+sound deo_sound sounds/deo_sound.ogg
+sound running sounds/running.ogg
+sound heavy_breathing sounds/heavy_breathing.ogg
+sound out_of_breath sounds/asmatic_breathing.ogg
+
+sound jojo_1_sound sounds/jojo_sound_1.ogg
+sound jojo_2_sound sounds/jojo_sound_2.ogg
+sound jojo_3_sound sounds/jojo_sound_3.ogg
+sound jojo_4_sound sounds/jojo_sound_4.ogg
+sound jojo_5_sound sounds/jojo_sound_5.ogg
+sound jojo_6_sound sounds/jojo_sound_6.ogg
+
+shader dark shaders/dark.frag

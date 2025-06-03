@@ -1,0 +1,14 @@
+#texture
+#type image
+#id 1
+#image ./assets/block.png
+
+#texture
+#type image
+#id 2
+#image ./assets/Joffrenstein3D-icon.png
+
+#texture
+#type color
+#id 3
+#color 255:100:100:255
